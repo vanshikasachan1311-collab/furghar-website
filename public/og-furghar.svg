@@ -1,0 +1,12 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#FFF8F0"/>
+  <circle cx="1000" cy="120" r="220" fill="#F2DFC7"/>
+  <circle cx="160" cy="520" r="190" fill="#FCE7C4"/>
+  <text x="90" y="220" fill="#355E3B" font-family="Inter, Arial" font-size="82" font-weight="800">FurGhar</text>
+  <text x="90" y="310" fill="#263326" font-family="Inter, Arial" font-size="42" font-weight="600">A home away from home</text>
+  <text x="90" y="370" fill="#263326" font-family="Inter, Arial" font-size="42" font-weight="600">for your furry family.</text>
+  <path d="M795 390C795 287.28 878.28 204 981 204C1083.72 204 1167 287.28 1167 390V528H795V390Z" fill="#355E3B"/>
+  <path d="M866 300L981 198L1096 300" stroke="#D97706" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="920" cy="420" r="28" fill="#FFF8F0"/>
+  <circle cx="1041" cy="420" r="28" fill="#FFF8F0"/>
+</svg>
